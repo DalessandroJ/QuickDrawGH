@@ -7,7 +7,7 @@ This Grasshopper plugin is a set of 4 components to allow for the usage of Googl
 
 The components are Format, Load, Read, and Draw.
 
-[You can download it and the inital setup file from Food4Rhino here!](https://www.food4rhino.com/app/quickdrawgh)
+[You can download it and the initial setup file from Food4Rhino here!](https://www.food4rhino.com/app/quickdrawgh)
 
 ![qdghscreenshot](https://user-images.githubusercontent.com/68554138/93125966-d5770e00-f699-11ea-8162-cb83072174d7.PNG)
 
