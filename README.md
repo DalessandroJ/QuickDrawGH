@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://user-images.githubusercontent.com/68554138/93128669-d90c9400-f69d-11ea-97c2-8fa8b60b80fb.png" height="200" width="200">
+</p>
 
 # QuickDrawGH
 This Grasshopper plugin is a set of 4 components to allow for the usage of Google's "Quick, Draw!" dataset inside of Grasshopper/Rhino.
